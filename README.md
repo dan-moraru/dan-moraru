@@ -64,13 +64,13 @@ I’m a **Software Engineering student at McGill University** with a strong inte
 
 A selection of personal projects, MVPs, and proof-of-concept builds where I explore new technologies, system design, and real-world problems.
 
-- **OFA – AI Game Guide**  
+- **[OFA – AI Game Guide](https://github.com/dan-moraru/ofa-guide)**
   AI-powered in-game assistant built with the Overwolf SDK and Node.js, using live game data and Google Gemini to provide context-aware gameplay guidance.
 
-- **FoodBud – Nutrition Calculator**  
+- **[FoodBud – Nutrition Calculator](https://github.com/dan-moraru/FoodBud)**
   Full-stack MERN web application for nutritional tracking, custom food management, and goal setting with a clean, user-friendly interface.
 
-- **Parallel Parking (MVP)**  
+- **[Parallel Parking (MVP)](https://github.com/dan-moraru/dayopa)**
   Early-stage web application exploring real-time parking data integration and location-based routing using the MERN stack.
 
 📌 *Pinned repositories highlight the projects I’m most actively developing or proud of.*
