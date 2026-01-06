@@ -79,5 +79,3 @@ A selection of personal projects, MVPs, and proof-of-concept builds where I expl
 
 - 💼 LinkedIn: [dan-m-moraru](https://www.linkedin.com/in/dan-m-moraru/)
 - 📧 Email: danmoraru04@gmail.com
-
-Thanks for stopping by!
