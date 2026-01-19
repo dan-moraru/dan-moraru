@@ -64,8 +64,11 @@ I’m a **Software Engineering student at McGill University** with a strong inte
 
 A selection of personal projects, MVPs, and proof-of-concept builds where I explore new technologies, system design, and real-world problems.
 
+- **[Market Wizard](https://github.com/dan-moraru/MarketWizard)
+    McHacks 13 Hackathon National Bank Challenge Winner :star:. Real-time market regime detection system that analyzes high-frequency bid–ask microstructure to adapt trading strategies before instability causes losses.
+
 - **[OFA – AI Game Guide](https://github.com/dan-moraru/ofa-guide)**
-  AI-powered in-game assistant built with the Overwolf SDK and Node.js, using live game data and Google Gemini to provide context-aware gameplay guidance.
+  AI-powered in-game assistant built with the Overwolf SDK and Node.js, using live game data and Google Gemini API to provide context-aware gameplay guidance.
 
 - **[FoodBud – Nutrition Calculator](https://github.com/dan-moraru/FoodBud)**
   Full-stack MERN web application for nutritional tracking, custom food management, and goal setting with a clean, user-friendly interface.
