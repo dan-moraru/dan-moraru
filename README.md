@@ -64,7 +64,7 @@ I’m a **Software Engineering student at McGill University** with a strong inte
 
 A selection of personal projects, MVPs, and proof-of-concept builds where I explore new technologies, system design, and real-world problems.
 
-- **[Market Wizard](https://github.com/dan-moraru/MarketWizard)
+- **[Market Wizard](https://github.com/dan-moraru/MarketWizard)**
     McHacks 13 Hackathon National Bank Challenge Winner :star:. Real-time market regime detection system that analyzes high-frequency bid–ask microstructure to adapt trading strategies before instability causes losses.
 
 - **[OFA – AI Game Guide](https://github.com/dan-moraru/ofa-guide)**
