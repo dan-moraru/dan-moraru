@@ -16,10 +16,10 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Software Engineering student at McGill University** with a strong interest in building reliable, well-designed software systems. I enjoy working across the stack, from low-level problem solving to clean UI and developer-friendly tools.
+I’m a **Software Engineering and Economics student at McGill University** interested in building intelligent systems at the intersection of fintech, AI, and software engineering, from robust backend infrastructure to data-driven trading and decision platforms.
 
 - 🎓 B.A. student @ McGill University  
-- 💻 Interested in software engineering, A.I, and backend development  
+- 💻 Interested in Software Engineering, Finance & Economics, A.I
 - 🎯 Focused on writing clean, maintainable, and efficient code  
 - 🌍 Fluent in **English & French**
 
